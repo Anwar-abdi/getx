@@ -14,7 +14,7 @@ class FoodController extends GetxController {
     FoodModel(
       id: 2,
       name: "Pasta",
-      description: "so delicious",
+      description: "so delicious pasta",
       price: 18.99,
       imageUrl: "assets/food2.jpg",
     ),
