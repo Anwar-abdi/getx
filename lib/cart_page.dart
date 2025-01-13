@@ -32,7 +32,7 @@ class CartPage extends StatelessWidget {
                   ),
                   const SizedBox(height: 20),
                   Text(
-                    "Oops! It looks like your cart is empty.",
+                    "Oops! It looks like your cart is empty🛒.",
                     style: TextStyle(
                       fontSize: 18,
                       fontWeight: FontWeight.bold,
