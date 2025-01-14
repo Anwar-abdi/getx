@@ -55,7 +55,7 @@ class FoodController extends GetxController {
     cart.remove(product);
     Get.snackbar(
       "Removed from Cart",
-      "${product.name} has beeen removed from your cartz.",
+      "${product.name} has beeen remved from your cartz.",
       snackPosition: SnackPosition.BOTTOM,
       backgroundColor: Colors.redAccent,
       colorText: Colors.white,
