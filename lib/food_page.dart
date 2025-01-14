@@ -58,7 +58,7 @@ class ProductPage extends StatelessWidget {
         if (productController.products.isEmpty) {
           return const Center(
             child: Text(
-              'No products available now.',
+              'No products available now🛒.',
               style: TextStyle(fontSize: 16),
             ),
           );
