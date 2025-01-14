@@ -40,7 +40,7 @@ class FoodController extends GetxController {
     cart.add(product);
     Get.snackbar(
       "Added to Cart",
-      "${product.name} has been added to your cart.",
+      "${product.name} has beeen added to your cart.",
       snackPosition: SnackPosition.BOTTOM,
       backgroundColor: Colors.greenAccent,
       colorText: Colors.white,
